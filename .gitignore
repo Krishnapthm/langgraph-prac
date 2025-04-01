@@ -1,0 +1,59 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python dependencies
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+env/
+venv/
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Build files
+dist/
+build/
+*.out
+*.o
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Environment variables
+.env
+.env.local
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Generated files
+*.class
+*.jar
+*.war
+*.ear
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Git-specific files
+.git/
